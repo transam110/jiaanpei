@@ -1,5 +1,0 @@
-git test
-
-git ok
-
-git no
